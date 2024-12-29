@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Data science & machine learning.
   
 - 💻 **Tech Stack:**
-  -> *Programming Languages:*   Java, Python, R, C++.
-  ->  *Tools and IDEs:*   Turbo C++,  R-Studio,   VS Code  , Jupiter-Notebook.
-  ->   *Special-Interests:*  machine learning models, data visualization, and generative AI.
+  -- *Programming Languages:*   Java, Python, R, C++.
+  --  *Tools and IDEs:*   Turbo C++,  R-Studio,   VS Code  , Jupiter-Notebook.
+  --   *Special-Interests:*  machine learning models, data visualization, and generative AI.
    
 - “💞️ I’m looking to collaborate on open-source data science projects, especially those involving machine learning and data visualization.
 
