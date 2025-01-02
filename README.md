@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data science & machine learning.
   
 - 💻 **Tech Stack:**
-  - *Programming Languages:*   Java, Python, R, C++.
+  - *Programming Languages:*   Java, Python, R, .
   - *Tools and IDEs:*   Turbo C++,  R-Studio,   VS Code  , Jupiter-Notebook.
   - *Special-Interests:*  machine learning models, data visualization, and generative AI.
    
