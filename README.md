@@ -1,22 +1,67 @@
-- 👋 Hi, I’m @ALokYadav05
-- 👀 I’m interested in Data science & AI.
-- 🌱 I’m currently learning Data science & machine learning.
-  
-- 💻 **Tech Stack:**
-  - *Programming Languages:*   Java, Python, R, .
-  - *Tools and IDEs:*   Turbo C++,  R-Studio,   VS Code  , Jupiter-Notebook.
-  - *Special-Interests:*  machine learning models, data visualization, and generative AI.
-   
-- “💞️ I’m looking to collaborate on open-source data science projects, especially those involving machine learning and data visualization.
+<!-- ─────────────── 🏁 START HEADER ─────────────── -->
 
-- 📫 reach me :-
-     * Email *  alokak148@gmail.com
-     * LinkedIn:*  www.linkedin.com/in/alok-yadav-08a501281
-       
-- 📍 Based in Valsad, South Gujarat. 
-- 🌟 Fun fact: I love tech meetups and trying out new programming IDEs.
+<h1 align="center">👋 Hi, I’m @ALokYadav05</h1>
+<p align="center">
+   Artificial Intelligence Intern |  AI & ML Enthusiast
+</p>
 
-<!---
-ALokYadav05/ALokYadav05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  🎓 Bachelor`s in Computer Science | Exploring Generative AI & Deep Learning
+</p>
+
+
+##  About Me
+
+I'm passionate about **Artificial Intelligence, Machine Learning, Deep Learning & Generative AI**. I enjoy building intelligent solutions, dissecting complex problems, and turning data into meaningful insights.
+
+---
+
+## 🚀 Currently
+
+- Working as **AI Intern**
+- Exploring **Generative AI models**
+- Building hands-on **AI/ML projects**
+- Learning **model deployment & production-grade workflows**
+
+---
+
+## 🛠️ Tech Stack & Interests
+
+| 🧠 Languages | 🧰 Tools & IDEs | 💻 Frameworks  | 💾 Databases | 🕸️ Web Scraping      | 💡 Interests          |
+|--------------|------------------|----------------|---------------|----------------------|------------------------|
+| Python       | PyCharm          | Flask          | SQL Server    | BeautifulSoup        | Data Visualization     |
+| Java         | VS Code          | FastAPI        | MongoDB       | Selenium             | Machine Learning       |
+| C++          | Jupyter Notebook |                | VectorDB      |                      | Deep Learning          |
+|              |                  |                |               |                      | NLP & Gen-AI           ||
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+  📩 <strong>Email:</strong> <a href="mailto:alokak148@gmail.com">alokak148@gmail.com</a>  
+  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/alok-yadav-08a501281">linkedin.com/in/alok-yadav-08a501281</a>
+</div>
+---
+
+---
+## 😄 Fun Fact
+
+I love attending **tech meetups** and enjoy **breaking down complex AI concepts into simple explanations** so anyone can understand them!
+
+---
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ALokYadav05&layout=compact&theme=radical" alt="Top Languages" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=ALokYadav05&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALokYadav05&theme=radical" alt="Streak Stats" />
+</p>
+
+✨ *Thanks for visiting my profile — let’s build something cool together!* 🚀
