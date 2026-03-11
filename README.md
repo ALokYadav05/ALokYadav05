@@ -50,15 +50,7 @@ I'm passionate about **Artificial Intelligence, Machine Learning, Deep Learning 
 I love attending **tech meetups** and enjoy **breaking down complex AI concepts into simple explanations** so anyone can understand them!
 
 ---
-
-
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ALokYadav05&layout=compact&theme=radical" alt="Top Languages" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=ALokYadav05&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALokYadav05&theme=radical" alt="Streak Stats" />
