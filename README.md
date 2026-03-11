@@ -42,14 +42,13 @@ I'm passionate about **Artificial Intelligence, Machine Learning, Deep Learning 
   📩 <strong>Email:</strong> <a href="mailto:alokak148@gmail.com">alokak148@gmail.com</a>  
   🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/alok-yadav-08a501281">linkedin.com/in/alok-yadav-08a501281</a>
 </div>
----
 
 ---
 ## 😄 Fun Fact
 
 I love attending **tech meetups** and enjoy **breaking down complex AI concepts into simple explanations** so anyone can understand them!
 
----
+
 ## 📊 GitHub Stats
 
 <p align="center">
